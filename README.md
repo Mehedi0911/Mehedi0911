@@ -1,3 +1,4 @@
+![mehedi](https://i.ibb.co/t4p0Zy0/Navy-And-White-Geometric-Technology-Linked-In-Banner-1.jpg)
 # 💫 About Me:
 Results-driven Full Stack Web Developer with expertise in front-end and back-end technologies. <br>Dedicated to crafting seamless user experiences and contributing to innovative projects. Seeking a <br>dynamic team to apply my skills in a challenging and collaborative environment.<br><br>🔭 I’m currently working on GYM_PLUS - Gym Management Software<br>👯 I’m looking to collaborate on GYM_PLUS<br>🌱 I’m currently learning Prisma | Nest.js | PostgreSQL | C | C++<br>⚡ Fun fact -  Enjoying Learning
 
